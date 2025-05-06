@@ -23,7 +23,7 @@ $$
 $$
 
 $$
-  c(p, j, m, n):=\displaystyle\dfrac{a(p,j,m,n)-c(p,j,m,n)}{2}
+  c(p, j, m, n):=\displaystyle\dfrac{a(p,j,m,n)-b(p,j,m,n)}{2}
 $$
 
 $$
