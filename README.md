@@ -34,3 +34,7 @@ $$
 $$
   \beta(p,j,m,n):=\left((2^jm+n)!_m\right)^p
 $$
+
+when $(p, j, m, n) = (1, 2, 1, 0)$, the formula generates the first Brocard number $(4, 5)$.
+when $(p, j, m, n) = (1, 2, 1, 1)$, the formula generates the second Brocard number $(5, 11)$.
+when $(p, j, m, n) = (1, 3, 1, -1)$, the formula generates the known third Brocard number $(7, 71)$.
