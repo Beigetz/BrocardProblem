@@ -1,4 +1,4 @@
-# BrocardProblem
+# Brocard Problem
 The formula of the family of solutions of $p$-th power of $m$-th multifactorial Diophantine equation as following
 
 $$
