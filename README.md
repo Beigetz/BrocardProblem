@@ -7,7 +7,7 @@ $$
 The latest known all solusions are only three.
 
 $$
-  (n,m)\in\{(4,5),(5,11),(7,71)\}
+  (n,m)\in\\{(4,5),(5,11),(7,71)\\}
 $$
 
 The formula of the family of solutions of $p$-th power of $m$-th multifactorial Diophantine equation as following
