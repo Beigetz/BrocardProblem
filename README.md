@@ -31,7 +31,7 @@ $$
 $$
 
 $$
-  a(p, j, m, n):=\left(\displaystyle\prod_{k=0}^{2^{j-2}-1}((2^{j-1}+2k+2)m+n)((2k+1)m+n)\right)^p+((n)!_m)^p\Delta(p, j, m, n)
+  a(p, j, m, n):=\left(\displaystyle\prod_{k=0}^{2^{j-2}-1}((2^{j-1}+2k+2)m+n)((2k+1)m+n)\right)^p((n)!_m)^p+\Delta(p, j, m, n)
 $$
 
 $$
