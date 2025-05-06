@@ -32,5 +32,5 @@ $$
 $$
 
 $$
-  \beta(p,j,m,n):=((2^jm+n)!_m)^p
+  \beta(p,j,m,n):=\left((2^jm+n)!_m\right)^p
 $$
