@@ -109,7 +109,7 @@ int main() {
 							std::cout << "The Brocard number : (" << (m<<j)+n << ", " << sqrt(rhs) << ")\n" ;
 							std::cout << "(" << term_2jm_plus_n_mpz << ")!  + " << c_val_abs <<  " = " << a_minus_c_mpz << " ^ 2\n";
 						}
-					}
+					} else std::cout << "(" << term_2jm_plus_n_mpz << ")!  + " << c_val_abs << " ^ 2" << " = " << a_minus_c_mpz << " ^ 2\n";
 					else if (j == 3) {
 						if (n==-1) {
 							std::cout << "The Brocard number : (" << (m << j) + n << ", " << sqrt(rhs) << ")\n";
